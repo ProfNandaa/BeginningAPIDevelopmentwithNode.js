@@ -12,6 +12,7 @@ server.route({
     method: 'GET',
     path: '/',
     handler: (request, reply) => {
+        // returning JSON string
         return reply({ message: 'hello, world' });
     }
 });

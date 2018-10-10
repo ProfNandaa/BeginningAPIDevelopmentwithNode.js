@@ -1,4 +1,0 @@
-world,
-jambo.
-
-third async, you are.
